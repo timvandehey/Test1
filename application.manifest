@@ -2,11 +2,11 @@ CACHE MANIFEST
 #v3.1
 
 CACHE:
-/Test1/index.html
-/Test1/offline.html
+index.html
+offline.html
 
 NETWORK:
 /
 
 FALLBACK:
-/ /Test1/offline.html
+/ offline.html
